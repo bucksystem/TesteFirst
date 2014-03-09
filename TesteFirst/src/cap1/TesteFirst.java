@@ -10,6 +10,8 @@ public class TesteFirst {
 		 NovaClasse novaClasse = new NovaClasse(1, "rogerio", 10);
 		 
 		 System.out.println(novaClasse.getNome());
+		 
+		 System.out.println("Nova Classe é o mesmo de onte.....");
 		
 	}
 }
